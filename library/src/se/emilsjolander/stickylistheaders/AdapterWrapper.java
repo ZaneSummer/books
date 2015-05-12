@@ -14,6 +14,10 @@ import android.widget.Checkable;
 import android.widget.ListAdapter;
 
 /**
+ * 
+ * 
+ * 
+ * 
  * A {@link ListAdapter} which wraps a {@link StickyListHeadersAdapter} and
  * automatically handles wrapping the result of
  * {@link StickyListHeadersAdapter#getView(int, android.view.View, android.view.ViewGroup)}
